@@ -1,1 +1,1 @@
-# Superstore-Sales-Dashboard
+Built a comprehensive dashboard to monitor business performance by analyzing sales, profit, and customer segments. Identified key insights such as high-performing regions and loss-making categories, supporting strategic business decisions.
